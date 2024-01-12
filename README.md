@@ -8,4 +8,4 @@ Bu projede HTML, CSS, Bootstrap ve JavaScript kullanılmıştır
 
 <h2>Ekran Videosu</h2>
 
-![](BookShop.gif)
+![](bookshop.gif)
